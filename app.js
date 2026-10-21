@@ -182,13 +182,10 @@ Somewhere along the way, your messages became the little part of my day that I n
 
 Main pehle se hi nervous aur shy tha, aur phir tum saamne aayi — itni pretty aur cute ki mujhe samajh hi nahi aa raha tha ki normal kaise behave karun. 🫠💗
 
-Aur phir aaya woh chhota sa bridge, jahan tumne masti mein kaha, “paani mein fek de??.” 😂😭
+Aur phir aaya woh chhota sa bridge, jahan tumne masti mein kaha, “paani mein fek de??.” 😂😭`,
+  caption: "August mein hum do baar mile, aur sach kahun toh woh dono din humari life ke best days mein se the. ❤️",
 
-August mein hum do baar mile, aur sach kahun toh woh dono din humari life ke best days mein se the. ❤️
-`,
-  caption: "Do meetings, ek chhota sa bridge, aur ek ladki jisne mujhe bilkul pagal kar diya. 😂❤️",
-
-  bfNote: " “paani mein fek de??.” 😂😭 Aur main pagal, tumhari is dhamki ke baad bhi tumpe aur zyada fida ho gaya. ❤️🫠"
+  bfNote: " “paani mein fek de??.” 😂😭 Aur main , tumhari is dhamki ke baad bhi tumpe aur zyada fida ho gaya. ❤️🫠"
 },
     {
       id: 9,
