@@ -151,7 +151,7 @@ And honestly, those simple days became some of the happiest days for me. ❤️`
 },
    {
   id: 7,
-  image: "assets/photos/memory-07.jpg",
+  image: "assets/photos/3d458189-c6c9-4ac1-8dae-4eeee1ddb3c7.png",
   title: "Two Rooms, One Conversation",
   date: " February -june",
 
