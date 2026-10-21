@@ -185,9 +185,7 @@ Main pehle se hi nervous aur shy tha, aur phir tum saamne aayi — itni pretty a
 Aur phir aaya woh chhota sa bridge, jahan tumne masti mein kaha, “paani mein fek de??.” 😂😭
 
 August mein hum do baar mile, aur sach kahun toh woh dono din humari life ke best days mein se the. ❤️
-
-Second time milne par bhi main tumhe dekh kar wahi soch raha tha — yaar, ye sach mein mere saamne hai? Itni beautiful kaise ho sakti hai koi? 🥹🫶`,
-
+`,
   caption: "Do meetings, ek chhota sa bridge, aur ek ladki jisne mujhe bilkul pagal kar diya. 😂❤️",
 
   bfNote: " “paani mein fek de??.” 😂😭 Aur main pagal, tumhari is dhamki ke baad bhi tumpe aur zyada fida ho gaya. ❤️🫠"
