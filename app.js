@@ -171,16 +171,27 @@ Somewhere along the way, your messages became the little part of my day that I n
 
   bfNote: "I didn't know it then, but I was slowly getting used to having you in every part of my day. ❤️"
 },
-    {
-      id: 8,
-      image: "assets/photos/memory-08.jpg",
-      title: "The Quiet Hug When You Were Exhausted",
-      date: "18 September 2024",
-      location: "Your Front Porch",
-      story: "You had such an exhausting, overwhelming week. When you opened the door, you didn't even say a word; you just stepped forward and buried your face into my chest, wrapping your arms tight around me. I held you for what felt like hours without letting go, stroking your hair. In that moment, I swore to myself I would always be your safe harbor.",
-      caption: "Whenever the world is too loud, my arms are always your shelter.",
-      bfNote: "The deep, relieved breath you took the second my arms wrapped around you."
-    },
+   
+{
+  id: 8,
+  image: "assets/photos/61c02c16-cbbd-4899-985f-b53a9c922bb9.png",
+  title: "The Two Days I’ll Never Forget",
+  date: "August",
+
+  story: `Jab maine tumhe apni taraf aate hue dekha, sach mein ek pal ke liye freeze ho gaya tha. 😭❤️
+
+Main pehle se hi nervous aur shy tha, aur phir tum saamne aayi — itni pretty aur cute ki mujhe samajh hi nahi aa raha tha ki normal kaise behave karun. 🫠💗
+
+Aur phir aaya woh chhota sa bridge, jahan tumne masti mein kaha, “paani mein fek de??.” 😂😭
+
+August mein hum do baar mile, aur sach kahun toh woh dono din humari life ke best days mein se the. ❤️
+
+Second time milne par bhi main tumhe dekh kar wahi soch raha tha — yaar, ye sach mein mere saamne hai? Itni beautiful kaise ho sakti hai koi? 🥹🫶`,
+
+  caption: "Do meetings, ek chhota sa bridge, aur ek ladki jisne mujhe bilkul pagal kar diya. 😂❤️",
+
+  bfNote: " “paani mein fek de??.” 😂😭 Aur main pagal, tumhari is dhamki ke baad bhi tumpe aur zyada fida ho gaya. ❤️🫠"
+},
     {
       id: 9,
       image: "assets/photos/memory-09.jpg",
