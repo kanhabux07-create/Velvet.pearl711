@@ -189,13 +189,13 @@ Aur phir aaya woh chhota sa bridge, jahan tumne masti mein kaha, “paani mein f
 },
     {
       id: 9,
-      image: "assets/photos/memory-09.jpg",
-      title: "Here, Now, & All Our Tomorrows",
+      image: "assets/photos/memory-9.jpg",
+      title: " September, Just Us ❤️",
       date: "Present & Forever",
-      location: "Everywhere We Go",
-      story: "Looking back through all these pages, I realize that every little second with you has been a treasure. From silly inside jokes and sleepy morning coffee to big milestones and quiet evenings. I don't know what the future holds, but as long as my hand is in yours, I know it's going to be the most magical story ever written.",
-      caption: "We are only on Chapter One of our forever.",
-      bfNote: "How you still give me butterflies every single time you look at me and smile."
+    
+      story: "September was one of my favorite months with you. We spent more time together than ever, mostly chatting late into the night. One conversation always led to another, and somehow, we never wanted to stop talking. We laughed, teased each other, shared random things, and made even the simplest moments fun. We didn't need anything special to enjoy our time; talking to you was enough to make an ordinary day feel different. Looking back, I think September was the month when we truly gave each other the most time. And honestly, I wish some of those nights could last a little longer❤️.",
+      caption: "Endless chats, late nights, and memories that still make me smile. ❤️",
+      bfNote: "Even when we had nothing left to talk about, I still wanted to stay a little longer with you ❤️."
     }
   ],
 
