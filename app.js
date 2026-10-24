@@ -187,15 +187,17 @@ Aur phir aaya woh chhota sa bridge, jahan tumne masti mein kaha, “paani mein f
 
   bfNote: " “paani mein fek de??.” 😂😭 Aur main , tumhari is dhamki ke baad bhi tumpe aur zyada fida ho gaya. ❤️🫠"
 },
-    {
-      id: 9,
-      image: "assets/photos/memory-9.jpg",
-      title: " September, Just Us ❤️",
-      date: "Present & Forever",    
-      story: "September was one of my favorite months with you. We spent more time together than ever, mostly chatting late into the night. One conversation always led to another, and somehow, we never wanted to stop talking. We laughed, teased each other, shared random things, and made even the simplest moments fun. We didn't need anything special to enjoy our time; talking to you was enough to make an ordinary day feel different. Looking back, I think September was the month when we truly gave each other the most time. And honestly, I wish some of those nights could last a little longer❤️.",
-      caption: "Endless chats, late nights, and memories that still make me smile. ❤️",
-      bfNote: "Even when we had nothing left to talk about, I still wanted to stay a little longer with you ❤️."
-    }
+  
+{
+  id: 9,
+  image: "assets/photos/memory-9.jpg",
+  title: "September, Just Us ❤️",
+  date: "September",
+  story: "September was one of my favorite months with you. We spent more time together than ever, mostly chatting late into the night. One conversation always led to another, and somehow, we never wanted to stop talking. We laughed, teased each other, shared random things, and made even the simplest moments fun. We didn't need anything special to enjoy our time; talking to you was enough to make an ordinary day feel different. Looking back, I think September was the month when we truly gave each other the most time. And honestly, I wish some of those nights could last a little longer. ❤️",
+  caption: "Endless chats, late nights, and memories that still make me smile. ❤️",
+  bfNote: "Even when we had nothing left to talk about, I still wanted to stay a little longer with you. ❤️"
+}
+
   ],
 
   // "Little Things I Remember" (Intimate Boyfriend Observations)
