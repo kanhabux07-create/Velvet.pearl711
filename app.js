@@ -202,15 +202,19 @@ Aur phir aaya woh chhota sa bridge, jahan tumne masti mein kaha, “paani mein f
 
   // "Little Things I Remember" (Intimate Boyfriend Observations)
   littleThings: [
-    {
-      id: 1,
-      emoji: "☕",
-      tag: "MORNING HABITS",
-      title: "How You Hold Warm Mugs",
-      preview: "You wrap both hands completely around the ceramic like you're warming up your soul.",
-      fullStory: "Every morning when you take your first sip of coffee or tea, you wrap both hands tight around the mug, close your eyes, and blow softly across the top. It's the sweetest, most peaceful thing to wake up to, and it never fails to make me smile."
-    },
-    {
+   {
+  id: 1,
+  emoji: "🥹",
+  tag: "The way you talk",
+  title: "How Cute Are You",
+  preview: "Your random talks, silly reactions, and cute little ways of saying things make even the simplest conversations special. ❤️",
+  fullStory: `You know, it's not always about what we talk about, but how we talk.
+
+Sometimes we talk about random things, sometimes we tease each other, and sometimes we keep talking for hours without even realizing how late it is.
+
+And honestly, I don't think you even realize how cute you can be sometimes. The way you talk, your little reactions, and your random funny cutest voice— I love all of it.
+ },
+ {
       id: 2,
       emoji: "🧥",
       tag: "CLOTHES THIEF",
