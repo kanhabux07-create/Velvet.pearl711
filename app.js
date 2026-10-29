@@ -202,22 +202,7 @@ Aur phir aaya woh chhota sa bridge, jahan tumne masti mein kaha, “paani mein f
 
   // "Little Things I Remember" (Intimate Boyfriend Observations)
   littleThings: [
- {
-  id: 1,
-  emoji: "🥹",
-  tag: "The way you talk",
-  title: "How Cute Are You",
-  preview: "Your random talks, silly reactions, and cute little ways of saying things make even the simplest conversations special. ❤️",
-  fullStory: `You know, it's not always about what we talk about, but how we talk.
 
-Sometimes we talk about random things, sometimes we tease each other, and sometimes we keep talking for hours without even realizing how late it is.
-
-And honestly, I don't think you even realize how cute you can be sometimes. The way you talk, your little reactions, and your random bakbak — I love all of it.
-
-Even when we have nothing interesting to talk about, I still enjoy talking to you. I could spend hours listening to your random stories and still ask you to tell me more.
-
-I guess that's just my thing with you. Even the simplest conversations feel special when it's you. ❤️`
-},
  {
       id: 2,
       emoji: "🧥",
