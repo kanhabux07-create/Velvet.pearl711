@@ -9,7 +9,7 @@
    1. PERSONALIZATION CONFIG (EDIT YOUR MEMORIES & DETAILS HERE)
    ============================================================================
    Tip for the user:
-   You can easily replace any text, names, dates, quotes, or image paths below.
+      You can easily replace any text, names, dates, quotes, or image paths below.
    Images can be local files (e.g. "assets/photos/memory-01.jpg") or web URLs.
    If an image file is not found, a gorgeous romantic procedural artwork is
    automatically generated so your site always looks stunning!
@@ -204,7 +204,7 @@ Aur phir aaya woh chhota sa bridge, jahan tumne masti mein kaha, “paani mein f
   littleThings: [
 
  {
-      id: 2,
+      id: 1,
       emoji: "🥹",
       tag: "The way you talk",
       title: "How Cute Are You",
@@ -212,12 +212,13 @@ Aur phir aaya woh chhota sa bridge, jahan tumne masti mein kaha, “paani mein f
       fullStory: "Sometimes we talk about random things, sometimes we tease each other, and sometimes we keep talking for hours without even realizing how late it is,And honestly, I don't think you even realize how cute you can be sometimes. The way you talk, your little reactions, and your random moood swings — I love all of it yawrrr."
     },
     {
-      id: 3,
-      emoji: "🤙",
-      tag: "SUBTLE AFFECTION",
-      title: "The Pinky Finger Grip",
-      preview: "When we walk through crowded sidewalks, you gently hook your pinky around mine.",
-      fullStory: "You don't always grab my whole hand when we're moving through a rush of people—sometimes you just hook your little pinky around mine and give it a tiny squeeze. It's our own silent code that says 'I'm right here with you'."
+      id: 2,
+      emoji: "🥹😂",
+      tag: "The way you say",
+      title: "Pani me phek de??",
+      preview: "jada bologe to pani me phek denge  And somehow, even your threats became my favourite memories..",
+      fullStory: "I  already imagine you saying it with that serious face while I  kept annoying you .
+'."
     },
     {
       id: 4,
