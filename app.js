@@ -178,14 +178,14 @@ Somewhere along the way, your messages became the little part of my day that I n
   title: "The Two Days I’ll Never Forget",
   date: "August",
 
-  story: `Jab maine tumhe apni taraf aate hue dekha, sach mein ek pal ke liye freeze ho gaya tha. 😭❤️
+  story: `Jab maine tumhe apni taraf aate hue dekha, sach mein ek pal ke liye freeze ho gaya tha. ❤️
 
 Main pehle se hi nervous aur shy tha, aur phir tum saamne aayi — itni pretty aur cute ki mujhe samajh hi nahi aa raha tha ki normal kaise behave karun. 🫠💗
 
-Aur phir aaya woh chhota sa bridge, jahan tumne masti mein kaha, “paani mein fek de??.” 😂😭`,
+Aur phir aaya woh chhota sa bridge, jahan tumne masti mein kaha, “paani mein fek de??.” 😂`,
   caption: "August mein hum do baar mile, aur sach kahun toh woh dono din humari life ke best days mein se the. ❤️",
 
-  bfNote: " “paani mein fek de??.” 😂😭 Aur main , tumhari is dhamki ke baad bhi tumpe aur zyada fida ho gaya. ❤️🫠"
+  bfNote: " “paani mein fek de??.” 😂Aur main , tumhari is dhamki ke baad bhi tumpe aur zyada fida ho gaya. ❤️🫠"
 },
   
 {
@@ -209,7 +209,7 @@ Aur phir aaya woh chhota sa bridge, jahan tumne masti mein kaha, “paani mein f
       tag: "The way you talk",
       title: "How Cute Are You",
       preview: "Your random talks, silly reactions, and cute little ways of saying things make even the simplest conversations special. ❤️",
-      fullStory: "Sometimes we talk about random things, sometimes we tease each other, and sometimes we keep talking for hours without even realizing how late it is,And honestly, I don't think you even realize how cute you can be sometimes. The way you talk, your little reactions, and your random bakbak — I love all of it."
+      fullStory: "Sometimes we talk about random things, sometimes we tease each other, and sometimes we keep talking for hours without even realizing how late it is,And honestly, I don't think you even realize how cute you can be sometimes. The way you talk, your little reactions, and your random moood swings — I love all of it yawrrr."
     },
     {
       id: 3,
