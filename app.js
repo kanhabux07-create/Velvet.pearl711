@@ -205,11 +205,11 @@ Aur phir aaya woh chhota sa bridge, jahan tumne masti mein kaha, “paani mein f
 
  {
       id: 2,
-      emoji: "🧥",
-      tag: "CLOTHES THIEF",
-      title: "Stealing My Oversized Hoodies",
-      preview: "You swear they are just 'more comfortable', but you look impossibly adorable in them.",
-      fullStory: "Whenever you come over, within ten minutes you've stolen my biggest hoodie. The sleeves cover your hands completely and it reaches down past your knees, but you wear it like royalty. You can keep all my hoodies forever."
+      emoji: "🥹",
+      tag: "The way you talk",
+      title: "How Cute Are You",
+      preview: "Your random talks, silly reactions, and cute little ways of saying things make even the simplest conversations special. ❤️",
+      fullStory: "Sometimes we talk about random things, sometimes we tease each other, and sometimes we keep talking for hours without even realizing how late it is,And honestly, I don't think you even realize how cute you can be sometimes. The way you talk, your little reactions, and your random bakbak — I love all of it."
     },
     {
       id: 3,
