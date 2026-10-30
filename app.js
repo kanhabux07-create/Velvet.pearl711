@@ -266,29 +266,14 @@ Maybe they seem ordinary to you, but they're the kind of things I notice and rem
 
 I love your nature, your way of treating people, and all those little things that make you who you are.
 
-You don't have to do anything special or try to impress anyone.
+
 
 Just being yourself is already something I appreciate so much.
 
 Never feel like you need to change the person you are. ❤️`
 },
 
-{
-  id: 5,
-  emoji: "🌸",
-  tag: "Your sweet nature",
-  title: "The Person You Are",
-  preview: "I love how you can be sweet, caring, funny, and a little dramatic all at once.",
-  fullStory: `There's a lot more to you than you probably realize.
 
-I love your nature, your way of treating people, and all those little things that make you who you are.
-
-You don't have to do anything special or try to impress anyone.
-
-Just being yourself is already something I appreciate so much.
-
-Never feel like you need to change the person you are. ❤️`
-},
 
 
 {
@@ -309,17 +294,9 @@ Never change that beautiful part of yourself. It's one of the biggest reasons yo
 },
 
 
-    {
-      id: 7,
-      emoji: "👀",
-      tag: "SECRET GLANCES",
-      title: "Looking Across Crowded Rooms",
-      preview: "That second when we catch each other's eyes from across a noisy party.",
-      fullStory: "Whenever we are at a gathering or dinner with lots of people, there is always that one moment where our eyes meet across the room. We share a tiny, knowing smirk that nobody else understands. You are my favorite anchor."
-    },
-     
+      
 {
-  id: 8,
+  id: 7,
   emoji: "🌷",
   tag: "A little reminder",
   title: "You Are Special",
