@@ -211,15 +211,7 @@ Aur phir aaya woh chhota sa bridge, jahan tumne masti mein kaha, “paani mein f
       preview: "Your random talks, silly reactions, and cute little ways of saying things make even the simplest conversations special. ❤️",
       fullStory: "Sometimes we talk about random things, sometimes we tease each other, and sometimes we keep talking for hours without even realizing how late it is,And honestly, I don't think you even realize how cute you can be sometimes. The way you talk, your little reactions, and your random moood swings — I love all of it yawrrr."
     },
-    {
-      id: 2,
-      emoji: "🥹😂",
-      tag: "The way you say",
-      title: "Pani me phek de??",
-      preview: "jada bologe to pani me phek denge  And somehow, even your threats became my favourite memories..",
-      fullStory: "I  already imagine you saying it with that serious face while I  kept annoying you .
-'."
-    },
+  
     {
       id: 4,
       emoji: "🍕",
