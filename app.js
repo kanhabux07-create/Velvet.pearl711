@@ -255,14 +255,60 @@ one of the best time in my life is your cute expresion🥹
 
 Maybe they seem ordinary to you, but they're the kind of things I notice and remember. 🥹❤️`
 },
-    {
-      id: 6,
-      emoji: "🎶",
-      tag: "CAR CONCERTS",
-      title: "Singing The Wrong Lyrics Proudly",
-      preview: "You sing with 100% confidence even when you make up your own words to the song.",
-      fullStory: "You will belt out the chorus in the car with pure passion, completely fabricating the lyrics with total conviction. When I laugh, you look at me and keep singing even louder. Don't ever change that."
-    },
+   
+{
+  id: 4,
+  emoji: "🌸",
+  tag: "Your sweet nature",
+  title: "The Person You Are",
+  preview: "I love how you can be sweet, caring, funny, and a little dramatic all at once.",
+  fullStory: `There's a lot more to you than you probably realize.
+
+I love your nature, your way of treating people, and all those little things that make you who you are.
+
+You don't have to do anything special or try to impress anyone.
+
+Just being yourself is already something I appreciate so much.
+
+Never feel like you need to change the person you are. ❤️`
+},
+
+{
+  id: 5,
+  emoji: "🌸",
+  tag: "Your sweet nature",
+  title: "The Person You Are",
+  preview: "I love how you can be sweet, caring, funny, and a little dramatic all at once.",
+  fullStory: `There's a lot more to you than you probably realize.
+
+I love your nature, your way of treating people, and all those little things that make you who you are.
+
+You don't have to do anything special or try to impress anyone.
+
+Just being yourself is already something I appreciate so much.
+
+Never feel like you need to change the person you are. ❤️`
+},
+
+
+{
+  id: 6,
+  emoji: "🌸",
+  tag: "Your beautiful nature",
+  title: "There's No One Like You",
+  preview: "Your nature is something I can never fully explain in words. You have honestly one of the beest gf.",
+  fullStory: `Honestly, I don't think words are enough to describe how beautiful your nature is.
+
+There's just something so special about the person you are. The way you behave, the way you talk, and the little things you do make you different from everyone else.
+
+I could write so many things about you, but somehow, none of them would feel enough to explain how amazing you are.
+
+
+
+Never change that beautiful part of yourself. It's one of the biggest reasons you're so special to me. ❤️`
+},
+
+
     {
       id: 7,
       emoji: "👀",
@@ -271,14 +317,21 @@ Maybe they seem ordinary to you, but they're the kind of things I notice and rem
       preview: "That second when we catch each other's eyes from across a noisy party.",
       fullStory: "Whenever we are at a gathering or dinner with lots of people, there is always that one moment where our eyes meet across the room. We share a tiny, knowing smirk that nobody else understands. You are my favorite anchor."
     },
-    {
-      id: 8,
-      emoji: "💤",
-      tag: "RESTING SAFE",
-      title: "Falling Asleep On My Shoulder",
-      preview: "On train rides or late-night movies, your head gently rolls onto my collarbone.",
-      fullStory: "No matter how much you claim you're not tired during a movie, within twenty minutes your head tilts, your breathing slows, and you curl against my shoulder. I barely dare to breathe because I don't want to wake you."
-    }
+     
+{
+  id: 8,
+  emoji: "🌷",
+  tag: "A little reminder",
+  title: "You Are Special",
+ preview: "I just want you to know how special you are to me and how much you mean to me.",
+fullStory: `There's just one thing I want you to remember.
+
+You are special just the way you are. You don't have to be perfect becoz you are already perfect.
+
+
+And I hope whenever you read this, you remember that someone notices all those little things about you. ❤️`
+},
+   
   ],
 
   // Couple Quiz Questions ("How Well Do You Know Us?")
