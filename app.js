@@ -212,22 +212,49 @@ Aur phir aaya woh chhota sa bridge, jahan tumne masti mein kaha, “paani mein f
       fullStory: "Sometimes we talk about random things, sometimes we tease each other, and sometimes we keep talking for hours without even realizing how late it is,And honestly, I don't think you even realize how cute you can be sometimes. The way you talk, your little reactions, and your random moood swings — I love all of it yawrrr."
     },
   
-    {
-      id: 4,
-      emoji: "🍕",
-      tag: "PURE JOY",
-      title: "The Happy Food Dance",
-      preview: "Whenever your favorite dessert or meal lands on the table, your shoulders do a little wiggle.",
-      fullStory: "It's completely involuntary and you probably don't even realize you do it, but the second the waiter places your favorite dish in front of you, you do this cute little shoulder shimmy of pure happiness. It melts my heart every single time."
-    },
-    {
-      id: 5,
-      emoji: "🥱",
-      tag: "SLEEPY HEAVEN",
-      title: "Your Five-More-Minutes Voice",
-      preview: "That sleepy morning murmur when you pull the duvet over your nose.",
-      fullStory: "Whenever I try to gently wake you up, you tuck yourself deeper into the blanket, let out the softest sigh, and whisper 'just five more minutes please'. Honestly, I'd stay in that cozy morning world with you for hours."
-    },
+  
+{
+  id: 2,
+  emoji: "💖",
+  tag: "A Heart Like Yours",
+  title: "Your beautiful heart",
+  preview: "Your kindness and the way you care about little things make you even more special.",
+  fullStory: `The way you care, the way you understand little things, and the way you make me feel special is something I truly admire.
+
+You might not even notice these little things about yourself, but I do.
+
+And honestly, having someone with such a beautiful heart in my life feels really special. ❤️`
+},
+
+   
+{
+  id: 3,
+  emoji: "😊",
+  tag: "Your lovely smile",
+  title: "That Beautiful Smile",
+  preview: "Your smile has this little magic that can make an ordinary moment feel better.",
+  fullStory: `you even don't know how beautiful smile you have .
+
+There's just something about it that makes me happy. Even thinking about you smiling can make my mood better.
+
+I hope you always have a thousand reasons to smile, because you deserve every bit of happiness.
+
+And yes, I hope I get to see that smile many more times. ❤️`
+},
+
+{
+  id: 4,
+  emoji: "🥹",
+  tag: "Your cute expressions",
+  title: "Those Little Expressions",
+  preview: "Your little reactions and expressions are honestly some of the cutest things about you.",
+  fullStory: `Sometimes it's not even what you say, it's your expressions.
+
+The little reactions, the way your face changes, and those moments when you try to act serious but end up being cute🥹.
+one of the best time in my life is your cute expresion🥹
+
+Maybe they seem ordinary to you, but they're the kind of things I notice and remember. 🥹❤️`
+},
     {
       id: 6,
       emoji: "🎶",
