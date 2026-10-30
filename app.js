@@ -1217,7 +1217,7 @@ class RomanticMiniGame {
     this.quoteBanner = document.getElementById("game-quote-banner");
     this.quoteText = document.getElementById("game-quote-text");
     this.winModal = document.getElementById("game-win-modal");
-    this.unlockVaultBtn = document.getElementById("win-unlock-vault-btn");
+   
     this.restartBtn = document.getElementById("game-restart-btn");
     this.startBtn = document.getElementById("game-start-btn");
     this.instructionsOverlay = document.getElementById("game-instructions-overlay");
@@ -1235,7 +1235,7 @@ class RomanticMiniGame {
       { emoji: "💖", label: "Pure Heart", quote: "“You are my favorite notification.”" },
       { emoji: "💌", label: "Love Letter", quote: "“Every love song suddenly made sense.”" },
       { emoji: "📷", label: "Polaroid", quote: "“In a room full of art, I'd still stare at you.”" },
-      { emoji: "✨", label: "Starlight", quote: "“You feel like Sunday morning coffee.”" },
+      { emoji: "✨", label: "Starlight", quote: "“You feel like Sunday morning .”" },
       { emoji: "🌹", label: "Dried Rose", quote: "“Loving you is the easiest thing I've ever done.”" },
       { emoji: "🎶", label: "Our Song", quote: "“My favorite place in the world is right next to you.”" },
       { emoji: "☕", label: "Warm Cup", quote: "“You turned ordinary days into poetry.”" },
@@ -1279,12 +1279,7 @@ class RomanticMiniGame {
       this.restartBtn.addEventListener("click", () => this.resetGame());
     }
 
-    if (this.unlockVaultBtn) {
-      this.unlockVaultBtn.addEventListener("click", () => {
-        window.unlockSecretMemory(true);
-        window.navigateToSection("secret-section");
-      });
-    }
+
   }
 
   resize() {
@@ -1530,11 +1525,10 @@ class SecretVaultController {
     const inputVal = this.passcodeInput.value.trim().toLowerCase();
     const targetPass = CONFIG.secretPasscode.trim().toLowerCase();
 
-    if (inputVal === targetPass || inputVal === "forever" || inputVal === "love") {
-      this.unlock();
+   if (inputVal === targetPass) ;
     } else {
       this.passcodeInput.style.borderColor = "#e57373";
-      this.passcodeInput.placeholder = "Incorrect passcode! Try: forever";
+      this.passcodeInput.placeholder = "Incorrect PIN. Try again.";
       this.passcodeInput.value = "";
       setTimeout(() => {
         this.passcodeInput.style.borderColor = "";
