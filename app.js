@@ -29,7 +29,7 @@ const CONFIG = {
   musicUrl: "", 
 
   // Secret Memory Passcode (case-insensitive)
-  secretPasscode: "I LOVE MY CUTIEEE",
+  secretPasscode: "CUTIEPOTATIE",
 
   // 10 Central Memories (The core storybook pages)
   memories: [
