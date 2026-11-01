@@ -157,7 +157,7 @@ And honestly, those simple days became some of the happiest days for me. ❤️`
 
   story: `February to  june  felt different.
 
- the day to those late-night talks where neither of us really wanted to say goodnight.
+From talking throughout the day to those late-night talks where neither of us really wanted to say goodnight.
 
 Sometimes we talked about everything. Sometimes about absolutely nothing.
 
@@ -277,11 +277,11 @@ Never feel like you need to change the person you are. ❤️`
 
 
 {
-  id: 6,
+  id: 5,
   emoji: "🤗",
   tag: "Your beautiful behaviour",
   title: "There's No One Like You",
-  preview: "Your behaviour is something I can never fully explain in words. You have honestly one of the beest gf.",
+  preview: "Your behaviour is something I can never fully explain in words.You are honestly the best girl anyone could ever ask for.",
   fullStory: `Honestly, I don't think words are enough to describe how beautiful your behaviour is.
 
 There's just something so special about the person you are. The way you behave, the way you talk, and the little things you do make you different from everyone else.
@@ -296,7 +296,7 @@ Never change that beautiful part of yourself. It's one of the biggest reasons yo
 
       
 {
-  id: 7,
+  id: 6,
   emoji: "🌷",
   tag: "A little reminder",
   title: "You Are Special",
@@ -345,7 +345,7 @@ And I hope whenever you read this, you remember that someone notices all those l
       options: [
         { text: "Extremely confident.", correct: false },
         { text: "Nervous and a little shy", correct: true },
-        { text: "So talkative that she couldn't get a word in.", correct: false }
+        { text: "So talkative that you couldn't get a word in.", correct: false }
       ],
       feedback: "I was so nervous that day, but seeing you  made it unforgettable. 🥹❤️."
     },
@@ -374,8 +374,8 @@ And I hope whenever you read this, you remember that someone notices all those l
     recipient: "To My Absolute Favorite Human In The Entire Universe❤️,",
     date: "A Promise For Forever",
     image: "assets/photos/secret.jpg",
-    caption: "ome moments become memories. And some people become a part of our entire story.",
-    author: "Aakanksha ♡",
+    caption: "some moments become memories. And some people become a part of our entire story.",
+    author: "Kanha ♡",
     body: `
       If you're reading this, it means you've made it through all our little memories and finally reached the most personal part of this website.
       <br><br>
