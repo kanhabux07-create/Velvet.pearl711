@@ -1279,10 +1279,9 @@ class RomanticMiniGame {
       this.restartBtn.addEventListener("click", () => this.resetGame());
     }
 
-    if (this.unlockVaultBtn) {
+       if (this.unlockVaultBtn) {
       this.unlockVaultBtn.addEventListener("click", () => {
-        window.unlockSecretMemory(true);
-        window.navigateToSection("secret-section");
+        this.resetGame();
       });
     }
   }
@@ -1530,14 +1529,15 @@ class SecretVaultController {
     const inputVal = this.passcodeInput.value.trim().toLowerCase();
     const targetPass = CONFIG.secretPasscode.trim().toLowerCase();
 
-    if (inputVal === targetPass || inputVal === "forever" || inputVal === "love") {
+    if (inputVal === targetPass) {
       this.unlock();
     } else {
       this.passcodeInput.style.borderColor = "#e57373";
-      this.passcodeInput.placeholder = "Incorrect passcode! Try: forever";
+      this.passcodeInput.placeholder = "Incorrect passcode! Try again";
       this.passcodeInput.value = "";
       setTimeout(() => {
         this.passcodeInput.style.borderColor = "";
+        this.passcodeInput.placeholder = "Enter secret passcode...";
       }, 1500);
     }
   }
@@ -1746,10 +1746,6 @@ document.addEventListener("DOMContentLoaded", () => {
   setupCustomCursor();
   setupLightbox();
 
-  // Expose Global Hook for Vault Unlock
-  window.unlockSecretMemory = () => {
-    secretVault.unlock();
-  };
 
   // Populate Couple Personalization in Landing & Cover
   document.getElementById("landing-p1").textContent = CONFIG.person1;
