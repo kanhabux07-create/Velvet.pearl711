@@ -314,58 +314,58 @@ And I hope whenever you read this, you remember that someone notices all those l
   // Couple Quiz Questions ("How Well Do You Know Us?")
   quizQuestions: [
     {
-      question: "Who said 'I love you' first?",
+      question: "What is something about you that I find really adorable?",
       options: [
-        { text: "Lucas (and I had butterflies for hours)", correct: true },
-        { text: "Maya (she couldn't hold it in any longer)", correct: false },
-        { text: "We blurted it out at the exact same time!", correct: false }
+        { text: " your mood swings and those priceless expressions", correct: true },
+        { text: " your habit of staying quiet all the time", correct: false },
+        { text: " your serious attitude in every situation.", correct: false }
       ],
-      feedback: "Yes! My heart was racing so fast, but I've never been more certain of anything in my life."
+      feedback: "Your mood swings are unpredictable, but your expressions make every mood adorable🥹."
     },
     {
-      question: "Where did we have our very first official date?",
+      question: "What did our late-night routine usually look like?",
       options: [
-        { text: "A fancy rooftop restaurant", correct: false },
-        { text: "The rainy corner bookstore cafe", correct: true },
-        { text: "An open-air drive-in movie", correct: false }
+        { text: "Watching movies until one of us fell asleep.", correct: false },
+        { text: "Playing games, talking for hours and sleeping at random times", correct: true },
+        { text: "Talking for a little while and going to sleep early.", correct: false }
       ],
-      feedback: "Spot on! We ordered two lattes and talked until the staff started putting chairs on tables."
+      feedback: "Our sleep schedule was a complete mess, but those late-night talks and games were always worth it."
     },
     {
-      question: "What is Lucas's absolute favorite thing about Maya?",
+      question: "What made our late-night conversations so special?",
       options: [
-        { text: "Her kind, compassionate heart and radiant smile", correct: true },
-        { text: "Her incredible playlist taste", correct: false },
-        { text: "Her competitive streak in video games", correct: false }
+        { text: "We could talk about absolutely random things without getting bored..", correct: true },
+        { text: "We always had planned topics to discuss.", correct: false },
+        { text: "We mostly talked only about games.", correct: false }
       ],
-      feedback: "Everything about you is my favorite, but your heart and smile are my absolute world."
+      feedback: "We never needed a topic. Somehow, even the most random conversations became our favourite memories"
     },
     {
-      question: "What happened on the infamous 'Homemade Pasta Night'?",
+      question: "What was I like when I met you  for the first time'?",
       options: [
-        { text: "It was a Michelin-star worthy dish", correct: false },
-        { text: "Flour ended up everywhere and we danced on the kitchen floor", correct: true },
-        { text: "We forgot to turn the stove on for 45 minutes", correct: false }
+        { text: "Extremely confident.", correct: false },
+        { text: "Nervous and a little shy", correct: true },
+        { text: "So talkative that she couldn't get a word in.", correct: false }
       ],
-      feedback: "Exactly! Flour on my face, burnt sauce, and the happiest dance of our lives."
+      feedback: "I was so nervous that day, but seeing you  made it unforgettable. 🥹❤️."
     },
     {
-      question: "What does Lucas do whenever Maya is feeling cold or tired?",
+      question: "What is something I could recognise even without seeing you?",
       options: [
-        { text: "Gives up his jacket and makes warm tea immediately", correct: true },
-        { text: "Tells her to do ten jumping jacks", correct: false },
-        { text: "Searches for a heater online", correct: false }
+        { text: " your cute voice", correct: true },
+        { text: " your footsteps.", correct: false },
+        { text: "your perfume", correct: false }
       ],
-      feedback: "You know me so well. Keeping you warm and safe is my top priority forever."
+      feedback: "Your voice has its own charm. I could listen to you talk about absolutely anything. ❤️"
     },
     {
-      question: "How long is Lucas planning to love Maya?",
+      question: "whats is my favourite colour?",
       options: [
-        { text: "For a few years", correct: false },
-        { text: "Until we run out of memories", correct: false },
-        { text: "Every single second of forever and then some", correct: true }
+        { text: "we don't like colours", correct: false },
+        { text: "cherris and berris colour ", correct: true},
+        { text: "black and  pink ", correct: true }
       ],
-      feedback: "Always and forever, without a single doubt in my soul."
+      feedback: "yeess babe your definetly right! IFYkYK"
     }
   ],
 
