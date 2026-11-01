@@ -1358,14 +1358,15 @@ class RomanticMiniGame {
       if (item.y < 30 || item.y > this.height - 30) item.vy *= -1;
 
       // Draw Collectible Emoji & Glow Ring
-      this.ctx.save();
-      this.ctx.font = "24px sans-serif";
-      this.ctx.textAlign = "center";
-      this.ctx.textBaseline = "middle";
-      this.ctx.shadowColor = "rgba(229, 193, 139, 0.6)";
-      this.ctx.shadowBlur = 15;
-      this.ctx.fillText(item.emoji, item.x, item.y);
-      this.ctx.restore();
+  
+this.ctx.save();
+this.ctx.font = '30px "Segoe UI Emoji", "Noto Color Emoji", sans-serif';
+this.ctx.textAlign = "center";
+this.ctx.textBaseline = "middle";
+this.ctx.shadowColor = "rgba(255, 210, 120, 0.9)";
+this.ctx.shadowBlur = 20;
+this.ctx.fillText(item.emoji, item.x, item.y);
+this.ctx.restore();
 
       // Check Collision with Player
       const dist = Math.hypot(this.player.x - item.x, this.player.y - item.y);
