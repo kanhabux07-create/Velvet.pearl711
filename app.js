@@ -278,11 +278,11 @@ Never feel like you need to change the person you are. ❤️`
 
 {
   id: 6,
-  emoji: "🌸",
-  tag: "Your beautiful nature",
+  emoji: "🤗",
+  tag: "Your beautiful behaviour",
   title: "There's No One Like You",
-  preview: "Your nature is something I can never fully explain in words. You have honestly one of the beest gf.",
-  fullStory: `Honestly, I don't think words are enough to describe how beautiful your nature is.
+  preview: "Your behaviour is something I can never fully explain in words. You have honestly one of the beest gf.",
+  fullStory: `Honestly, I don't think words are enough to describe how beautiful your behaviour is.
 
 There's just something so special about the person you are. The way you behave, the way you talk, and the little things you do make you different from everyone else.
 
