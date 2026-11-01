@@ -371,19 +371,21 @@ And I hope whenever you read this, you remember that someone notices all those l
 
   // Secret Memory Love Letter Details
   secretLetter: {
-    recipient: "To My Absolute Favorite Human In The Entire Universe,",
+    recipient: "To My Absolute Favorite Human In The Entire Universe❤️,",
     date: "A Promise For Forever",
     image: "assets/photos/secret.jpg",
-    caption: "The exact moment I knew I never wanted to let you go.",
+    caption: "ome moments become memories. And some people become a part of our entire story.",
     author: "Aakanksha ♡",
     body: `
-      If you are reading this, it means you've walked through all our little memories and unlocked the quietest corner of my heart.
+      If you're reading this, it means you've made it through all our little memories and finally reached the most personal part of this website.
       <br><br>
-      I wanted to write this letter to tell you something simple, but something I don't say enough: <strong>thank you for existing</strong>. Thank you for walking into that bookstore, thank you for laughing at my dumb jokes, and thank you for trusting me with your heart.
+     I don't really know how to put everything I feel into words, but I'll try.
       <br><br>
-      Before I met you, life was a series of routines and grey days. With you, every Tuesday feels like an adventure, every quiet car ride feels like poetry, and even the rainiest days feel warm. You have taught me what patience looks like, what gentle kindness feels like, and what true love really means.
+    Before you came into my life, everything felt so white and grey. Days were just passing, and life was mostly the same routine, over and over again. I never knew that one person could make such a huge difference in the way I see everything.But then you came into my life, and literally, everything started feeling different. The same ordinary days became something I could look forward to. Little things started making me happy, random conversations became my favourite part of the day, and even the simplest moments began to feel special.
+    You brought colours into parts of my life .. And it's not just that you make me happy; you've changed the way I experience so many little things in life.
+    
       <br><br>
-      Whatever the future brings—whatever challenges, road trips, burnt dinners, or quiet Sunday mornings—I want you to know that I am right here by your side. I will celebrate your biggest wins, I will hold your hand through the hardest nights, and I will wake up every single morning choosing you all over again.
+     Sometimes I genuinely wonder how one person can mean so much. But then I think of you, and somehow, the answer feels obvious.
       <br><br>
       You are my today, my tomorrow, and my forever.
     `
